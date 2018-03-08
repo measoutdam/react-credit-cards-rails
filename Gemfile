@@ -21,7 +21,7 @@ gem 'turbolinks', '~> 5'
 
 gem 'jbuilder', '~> 2.5'
 
-gem 'webpacker', '~> 2.11.1'
+gem 'webpacker', '~> 3.3'
 gem 'react-rails', '~> 2.4', '>= 2.4.4'
 
 group :development, :test do
